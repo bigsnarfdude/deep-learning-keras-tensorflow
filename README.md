@@ -24,7 +24,7 @@ https://github.com/leriomaggio/deep-learning-keras-euroscipy2016/
 
 ---
 
-# (Tentative) Schedule 
+# (Tentative) Schedule !!!
 
 ## Attention: Spoilers Warning!
 
